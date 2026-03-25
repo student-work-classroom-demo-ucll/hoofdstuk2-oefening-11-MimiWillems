@@ -23,6 +23,9 @@ namespace oefening2._1_startercode
 
         private void btnOne_Click(object sender, RoutedEventArgs e)
         {
+            btnOne.Content = "Ja";
+            btnTwo.Content = "Ja";
+            btnThree.Content = "Ja";
 
         }
 
